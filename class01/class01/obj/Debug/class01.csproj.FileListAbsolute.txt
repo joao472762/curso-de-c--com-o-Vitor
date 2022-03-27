@@ -1,0 +1,8 @@
+C:\Users\vitor\OneDrive\Documentos\Repositório\curso-de-cSarp-com-o-Vitor\class01\class01\bin\Debug\class01.exe.config
+C:\Users\vitor\OneDrive\Documentos\Repositório\curso-de-cSarp-com-o-Vitor\class01\class01\bin\Debug\class01.exe
+C:\Users\vitor\OneDrive\Documentos\Repositório\curso-de-cSarp-com-o-Vitor\class01\class01\bin\Debug\class01.pdb
+C:\Users\vitor\OneDrive\Documentos\Repositório\curso-de-cSarp-com-o-Vitor\class01\class01\obj\Debug\class01.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Documentos\Repositório\curso-de-cSarp-com-o-Vitor\class01\class01\obj\Debug\class01.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\OneDrive\Documentos\Repositório\curso-de-cSarp-com-o-Vitor\class01\class01\obj\Debug\class01.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\Repositório\curso-de-cSarp-com-o-Vitor\class01\class01\obj\Debug\class01.exe
+C:\Users\vitor\OneDrive\Documentos\Repositório\curso-de-cSarp-com-o-Vitor\class01\class01\obj\Debug\class01.pdb
