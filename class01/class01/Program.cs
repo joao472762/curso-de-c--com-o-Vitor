@@ -10,9 +10,9 @@ namespace class01
     {
         static void Main(string[] args)
         {
-            Console.Write("helo word, this is my firtst progam in C#, i'm very exact to do learning " +
-                "this lenguage \n");
-            Console.Write("let's go code");
+            Console.WriteLine("helo word, this is my firtst progam in C#, i'm very excited to learning " +
+                "this lenguage ");
+            Console.WriteLine("let's go code");
 
 
 
