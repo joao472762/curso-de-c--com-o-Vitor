@@ -10,7 +10,7 @@ namespace class03
     {
         static void Main(string[] args)
         {
-            //ways to decalare a variable
+            //ways to decalare a variable in C#
             //put type before your declare your variable like ( int variable = 1)
             //hide the type and just decalre like ( vairable = 1)
             //put the word dynamic how posibly you change the type like ( dynamic variable = ')
