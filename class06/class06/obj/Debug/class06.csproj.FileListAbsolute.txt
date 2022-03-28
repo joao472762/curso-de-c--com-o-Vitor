@@ -1,0 +1,8 @@
+C:\Users\drspr\Documents\GitHub\Repositorio\curso-de-c--com-o-Vitor\class06\class06\bin\Debug\class06.exe.config
+C:\Users\drspr\Documents\GitHub\Repositorio\curso-de-c--com-o-Vitor\class06\class06\bin\Debug\class06.exe
+C:\Users\drspr\Documents\GitHub\Repositorio\curso-de-c--com-o-Vitor\class06\class06\bin\Debug\class06.pdb
+C:\Users\drspr\Documents\GitHub\Repositorio\curso-de-c--com-o-Vitor\class06\class06\obj\Debug\class06.csproj.AssemblyReference.cache
+C:\Users\drspr\Documents\GitHub\Repositorio\curso-de-c--com-o-Vitor\class06\class06\obj\Debug\class06.csproj.SuggestedBindingRedirects.cache
+C:\Users\drspr\Documents\GitHub\Repositorio\curso-de-c--com-o-Vitor\class06\class06\obj\Debug\class06.csproj.CoreCompileInputs.cache
+C:\Users\drspr\Documents\GitHub\Repositorio\curso-de-c--com-o-Vitor\class06\class06\obj\Debug\class06.exe
+C:\Users\drspr\Documents\GitHub\Repositorio\curso-de-c--com-o-Vitor\class06\class06\obj\Debug\class06.pdb
