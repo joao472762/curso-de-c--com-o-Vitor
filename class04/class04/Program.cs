@@ -10,12 +10,12 @@ namespace class04
     {
         static void Main(string[] args)
         {
-            //use consnt in my aplication
-            //to declare a variable cosnt, just use ( const wishType variableName = 'value)
+            //using consnt in my aplication
+            //to declare a variable cosnt, just use ( const wishType ConstVariable = 'value)
 
-            const string variableName = "in this, that you deacre a const varialble";
+            const string ConstVariable = "this is how you declare a const variable";
 
-            Console.WriteLine(variableName);
+            Console.WriteLine(ConstVariable);
 
             Console.ReadLine();
         }
