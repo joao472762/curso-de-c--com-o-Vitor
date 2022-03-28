@@ -23,7 +23,8 @@ namespace class02
             string stringText = "astroword";
             char charText = 'n';
             bool bullTrueOrFalse = false;
-            var name = "jay zila";
+            
+            
 
             Console.WriteLine("the Integare number is " + intNumber);
             Console.WriteLine("the Floating number is  " + FloatNumber);
@@ -31,9 +32,8 @@ namespace class02
             Console.Write("the String text is " + stringText + '\n');
             Console.WriteLine("the Character text is " + charText);
             Console.WriteLine("the bolean is igua " + bullTrueOrFalse);
-           Console.WriteLine(name);
 
-
+            
             Console.ReadLine();
           
         }
